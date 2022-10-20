@@ -1,6 +1,6 @@
 {
   "name": "@enjinstarter/safe-global-safe-singleton-factory",
-  "version": "1.0.11+ejs.0.1.0",
+  "version": "1.0.11-ejs.0.1.0",
   "description": "Singleton factory used by Safe related contracts",
   "homepage": "https://github.com/enjinstarter/safe-global-safe-singleton-factory/",
   "license": "MIT",
